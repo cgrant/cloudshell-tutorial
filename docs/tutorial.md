@@ -49,10 +49,10 @@ echo hello world
 
 ## Editor
 
-<walkthrough-editor-open-file filePath="cloudshell_open/cloudshell-tutorial-0/README.md">Open File</walkthrough-editor-open-file>
+<walkthrough-editor-open-file filePath="cloudshell_open/cloudshell-tutorial/README.md">Open File</walkthrough-editor-open-file>
 
 
-<walkthrough-editor-select-line filePath="cloudshell_open/cloudshell-tutorial-0/README.md" startLine="2" endLine="2" startCharacterOffset="0" endCharacterOffset="3">
+<walkthrough-editor-select-line filePath="cloudshell_open/cloudshell-tutorial/README.md" startLine="2" endLine="2" startCharacterOffset="0" endCharacterOffset="3">
 Update this line to your project ID
 </walkthrough-editor-select-line>
 
