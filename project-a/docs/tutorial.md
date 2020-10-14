@@ -52,7 +52,8 @@ To provision your environment run the following commands
 
 ```bash
 gcloud set core/project {{project-id}}
-~/cloudshell_open/cloudshell-tutorial/bootstrap/create.sh
+
+~/cloudshell_open/cloudshell-tutorial/project-a/bootstrap/create.sh
 
 ```
 
