@@ -56,6 +56,10 @@ echo hello world
 Update this line to your project ID
 </walkthrough-editor-select-line>
 
+## Navigation 
+
+<walkthrough-menu-navigation sectionId="BILLING_SECTION"/>
+
 ## Summary
 
 Congratulations You Did It!!!!
