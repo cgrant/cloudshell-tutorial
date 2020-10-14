@@ -42,7 +42,7 @@ Variable project-id has value: {{project-id}}.
 
 ## Terminal
 
-```shell
+```bash
 echo hello world
 
 ```
